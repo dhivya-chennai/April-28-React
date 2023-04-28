@@ -1,0 +1,12 @@
+1. Login, checks with localStorage for validation
+2. Register, adds to localStorage
+3. Carousel done using Bootstrap JS
+4. Charts were done with Apexcharts, Recharts
+5. Table using react-table
+
+
+Need to install react-table and apexcharts to run
+
+http://localhost:3000/dashboard
+http://localhost:3000/login
+

@@ -1,0 +1,21 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+}
+.form-control {
+    width:fit-content
+}
+.Login {
+    background-image: url("https://mdbootstrap.com/img/new/fluid/city/016.jpg");
+    height: 100vh;
+}
+footer {
+    background: repeating-linear-gradient(
+        15deg,
+        rgb(172, 243, 172),
+        rgb(236, 146, 146) 5px,
+        rgb(143, 143, 254) 30px
+    ); 
+}
+.non-carousel-pages {
+    padding: 10px 0 0 10px;
+}
